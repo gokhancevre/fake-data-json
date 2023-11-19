@@ -1,0 +1,14 @@
+{
+  "error": 0,
+  "message": "Ürün bulundu",
+  "product": {
+    "main_image": "urun_resmi.jpg",
+    "product_name": "Ürün Adı",
+    "order_number": "123456",
+    "ean_code": "7890123456789",
+    "lot_number": "ABC123",
+    "qr_code": "QR123",
+    "order_quantity": 10,
+    "order_country": "Türkiye"
+  }
+}
